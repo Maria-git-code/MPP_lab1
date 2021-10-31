@@ -1,0 +1,16 @@
+C:\Users\Пользователь\RiderProjects\lab1\lab1\bin\Debug\net5.0\lab1.exe
+C:\Users\Пользователь\RiderProjects\lab1\lab1\bin\Debug\net5.0\lab1.deps.json
+C:\Users\Пользователь\RiderProjects\lab1\lab1\bin\Debug\net5.0\lab1.runtimeconfig.json
+C:\Users\Пользователь\RiderProjects\lab1\lab1\bin\Debug\net5.0\lab1.runtimeconfig.dev.json
+C:\Users\Пользователь\RiderProjects\lab1\lab1\bin\Debug\net5.0\lab1.dll
+C:\Users\Пользователь\RiderProjects\lab1\lab1\bin\Debug\net5.0\ref\lab1.dll
+C:\Users\Пользователь\RiderProjects\lab1\lab1\bin\Debug\net5.0\lab1.pdb
+C:\Users\Пользователь\RiderProjects\lab1\lab1\obj\Debug\net5.0\lab1.csproj.AssemblyReference.cache
+C:\Users\Пользователь\RiderProjects\lab1\lab1\obj\Debug\net5.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\RiderProjects\lab1\lab1\obj\Debug\net5.0\lab1.AssemblyInfoInputs.cache
+C:\Users\Пользователь\RiderProjects\lab1\lab1\obj\Debug\net5.0\lab1.AssemblyInfo.cs
+C:\Users\Пользователь\RiderProjects\lab1\lab1\obj\Debug\net5.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\RiderProjects\lab1\lab1\obj\Debug\net5.0\lab1.dll
+C:\Users\Пользователь\RiderProjects\lab1\lab1\obj\Debug\net5.0\ref\lab1.dll
+C:\Users\Пользователь\RiderProjects\lab1\lab1\obj\Debug\net5.0\lab1.pdb
+C:\Users\Пользователь\RiderProjects\lab1\lab1\obj\Debug\net5.0\lab1.genruntimeconfig.cache
